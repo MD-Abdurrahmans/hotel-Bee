@@ -1,5 +1,8 @@
 #Hotel Bee
 
+
+### features 
+
 - iam created a hotel booking website for stay comfort room
 
 - can user login and register
